@@ -1,2 +1,1 @@
-# ChiPY-Gerrymandr
-Chi Python 
+Hi
