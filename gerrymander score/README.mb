@@ -1,1 +1,4 @@
---hi--
+gerrymander_score_unclean: https://github.com/jeffreyshen19/Is-My-District-Gerrymandered
+gerrymander_score_cleaner: Python code to filter and created clean data set
+gerrymander_score_clean: CSV file of desired data set
+
