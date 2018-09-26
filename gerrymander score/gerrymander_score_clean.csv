@@ -1,0 +1,436 @@
+district_id,state,district_number,gerrymander_score
+ak0,Alaska,0,0
+al1,Alabama,1,60
+al2,Alabama,2,51
+al3,Alabama,3,48
+al4,Alabama,4,53
+al5,Alabama,5,50
+al6,Alabama,6,57
+al7,Alabama,7,57
+ar1,Arkansas,1,57
+ar2,Arkansas,2,46
+ar3,Arkansas,3,60
+ar4,Arkansas,4,45
+az1,Arizona,1,27
+az2,Arizona,2,5
+az3,Arizona,3,26
+az4,Arizona,4,35
+az5,Arizona,5,0
+az6,Arizona,6,0
+az7,Arizona,7,0
+az8,Arizona,8,21
+az9,Arizona,9,23
+ca1,California,1,18
+ca2,California,2,30
+ca3,California,3,30
+ca4,California,4,16
+ca5,California,5,24
+ca6,California,6,21
+ca7,California,7,0
+ca8,California,8,21
+ca9,California,9,5
+ca10,California,10,13
+ca11,California,11,20
+ca12,California,12,0
+ca13,California,13,0
+ca14,California,14,17
+ca15,California,15,13
+ca16,California,16,18
+ca17,California,17,0
+ca18,California,18,10
+ca19,California,19,16
+ca20,California,20,12
+ca21,California,21,28
+ca22,California,22,29
+ca23,California,23,29
+ca24,California,24,32
+ca25,California,25,24
+ca26,California,26,28
+ca27,California,27,8
+ca28,California,28,16
+ca29,California,29,15
+ca30,California,30,17
+ca31,California,31,31
+ca32,California,32,11
+ca33,California,33,35
+ca34,California,34,6
+ca35,California,35,21
+ca36,California,36,16
+ca37,California,37,0
+ca38,California,38,17
+ca39,California,39,11
+ca40,California,40,10
+ca41,California,41,11
+ca42,California,42,31
+ca43,California,43,3
+ca44,California,44,7
+ca45,California,45,0
+ca46,California,46,0
+ca47,California,47,38
+ca48,California,48,22
+ca49,California,49,20
+ca50,California,50,17
+ca51,California,51,25
+ca52,California,52,25
+ca53,California,53,10
+co1,Colorado,1,56
+co2,Colorado,2,47
+co3,Colorado,3,42
+co4,Colorado,4,41
+co5,Colorado,5,37
+co6,Colorado,6,60
+co7,Colorado,7,48
+ct1,Connecticut,1,55
+ct2,Connecticut,2,33
+ct3,Connecticut,3,48
+ct4,Connecticut,4,47
+ct5,Connecticut,5,52
+de0,Delaware,0,0
+fl1,Florida,1,38
+fl2,Florida,2,57
+fl3,Florida,3,23
+fl4,Florida,4,49
+fl5,Florida,5,63
+fl6,Florida,6,40
+fl7,Florida,7,29
+fl8,Florida,8,41
+fl9,Florida,9,23
+fl10,Florida,10,25
+fl11,Florida,11,39
+fl12,Florida,12,34
+fl13,Florida,13,16
+fl14,Florida,14,26
+fl15,Florida,15,38
+fl16,Florida,16,23
+fl17,Florida,17,32
+fl18,Florida,18,28
+fl19,Florida,19,49
+fl20,Florida,20,51
+fl21,Florida,21,36
+fl22,Florida,22,49
+fl23,Florida,23,34
+fl24,Florida,24,28
+fl25,Florida,25,42
+fl26,Florida,26,62
+fl27,Florida,27,48
+ga1,Georgia,1,48
+ga2,Georgia,2,38
+ga3,Georgia,3,41
+ga4,Georgia,4,34
+ga5,Georgia,5,19
+ga6,Georgia,6,39
+ga7,Georgia,7,39
+ga8,Georgia,8,57
+ga9,Georgia,9,39
+ga10,Georgia,10,40
+ga11,Georgia,11,42
+ga12,Georgia,12,50
+ga13,Georgia,13,55
+ga14,Georgia,14,43
+hi1,Hawaii,1,42
+hi2,Hawaii,2,66
+ia1,Iowa,1,52
+ia2,Iowa,2,47
+ia3,Iowa,3,35
+ia4,Iowa,4,36
+id1,Idaho,1,28
+id2,Idaho,2,14
+il1,Illinois,1,52
+il2,Illinois,2,37
+il3,Illinois,3,49
+il4,Illinois,4,64
+il5,Illinois,5,57
+il6,Illinois,6,58
+il7,Illinois,7,55
+il8,Illinois,8,53
+il9,Illinois,9,52
+il10,Illinois,10,47
+il11,Illinois,11,62
+il12,Illinois,12,50
+il13,Illinois,13,57
+il14,Illinois,14,58
+il15,Illinois,15,52
+il16,Illinois,16,54
+il17,Illinois,17,57
+il18,Illinois,18,53
+in1,Indiana,1,33
+in2,Indiana,2,34
+in3,Indiana,3,27
+in4,Indiana,4,35
+in5,Indiana,5,40
+in6,Indiana,6,31
+in7,Indiana,7,12
+in8,Indiana,8,45
+in9,Indiana,9,38
+ks1,Kansas,1,41
+ks2,Kansas,2,41
+ks3,Kansas,3,27
+ks4,Kansas,4,43
+ky1,Kentucky,1,62
+ky2,Kentucky,2,59
+ky3,Kentucky,3,30
+ky4,Kentucky,4,60
+ky5,Kentucky,5,44
+ky6,Kentucky,6,47
+la1,Louisiana,1,63
+la2,Louisiana,2,66
+la3,Louisiana,3,49
+la4,Louisiana,4,55
+la5,Louisiana,5,60
+la6,Louisiana,6,65
+ma1,Massachusetts,1,47
+ma2,Massachusetts,2,43
+ma3,Massachusetts,3,50
+ma4,Massachusetts,4,52
+ma5,Massachusetts,5,47
+ma6,Massachusetts,6,40
+ma7,Massachusetts,7,53
+ma8,Massachusetts,8,59
+ma9,Massachusetts,9,67
+md1,Maryland,1,64
+md2,Maryland,2,64
+md3,Maryland,3,70
+md4,Maryland,4,61
+md5,Maryland,5,46
+md6,Maryland,6,65
+md7,Maryland,7,60
+md8,Maryland,8,61
+me1,Maine,1,61
+me2,Maine,2,43
+mi1,Michigan,1,93
+mi2,Michigan,2,63
+mi3,Michigan,3,75
+mi4,Michigan,4,66
+mi5,Michigan,5,84
+mi6,Michigan,6,54
+mi7,Michigan,7,77
+mi8,Michigan,8,72
+mi9,Michigan,9,73
+mi10,Michigan,10,54
+mi11,Michigan,11,78
+mi12,Michigan,12,77
+mi13,Michigan,13,77
+mi14,Michigan,14,83
+mn1,Minnesota,1,77
+mn2,Minnesota,2,71
+mn3,Minnesota,3,65
+mn4,Minnesota,4,50
+mn5,Minnesota,5,46
+mn6,Minnesota,6,79
+mn7,Minnesota,7,71
+mn8,Minnesota,8,70
+mo1,Missouri,1,39
+mo2,Missouri,2,37
+mo3,Missouri,3,51
+mo4,Missouri,4,53
+mo5,Missouri,5,56
+mo6,Missouri,6,53
+mo7,Missouri,7,35
+mo8,Missouri,8,40
+ms1,Mississippi,1,44
+ms2,Mississippi,2,48
+ms3,Mississippi,3,57
+ms4,Mississippi,4,29
+mt0,Montana,0,0
+nc1,North Carolina,1,80
+nc2,North Carolina,2,80
+nc3,North Carolina,3,66
+nc4,North Carolina,4,76
+nc5,North Carolina,5,70
+nc6,North Carolina,6,71
+nc7,North Carolina,7,63
+nc8,North Carolina,8,75
+nc9,North Carolina,9,76
+nc10,North Carolina,10,72
+nc11,North Carolina,11,77
+nc12,North Carolina,12,61
+nc13,North Carolina,13,76
+nd0,North Dakota,0,0
+ne1,Nebraska,1,45
+ne2,Nebraska,2,24
+ne3,Nebraska,3,47
+nh1,New Hampshire,1,55
+nh2,New Hampshire,2,57
+nj1,New Jersey,1,44
+nj2,New Jersey,2,46
+nj3,New Jersey,3,45
+nj4,New Jersey,4,44
+nj5,New Jersey,5,52
+nj6,New Jersey,6,62
+nj7,New Jersey,7,48
+nj8,New Jersey,8,61
+nj9,New Jersey,9,51
+nj10,New Jersey,10,54
+nj11,New Jersey,11,47
+nj12,New Jersey,12,52
+nm1,New Mexico,1,50
+nm2,New Mexico,2,39
+nm3,New Mexico,3,43
+nv1,Nevada,1,22
+nv2,Nevada,2,27
+nv3,Nevada,3,33
+nv4,Nevada,4,28
+ny1,New York,1,84
+ny2,New York,2,58
+ny3,New York,3,60
+ny4,New York,4,47
+ny5,New York,5,41
+ny6,New York,6,60
+ny7,New York,7,70
+ny8,New York,8,81
+ny9,New York,9,38
+ny10,New York,10,67
+ny11,New York,11,66
+ny12,New York,12,40
+ny13,New York,13,60
+ny14,New York,14,70
+ny15,New York,15,35
+ny16,New York,16,62
+ny17,New York,17,52
+ny18,New York,18,68
+ny19,New York,19,69
+ny20,New York,20,64
+ny21,New York,21,57
+ny22,New York,22,76
+ny23,New York,23,73
+ny24,New York,24,62
+ny25,New York,25,52
+ny26,New York,26,60
+ny27,New York,27,70
+oh1,Ohio,1,56
+oh2,Ohio,2,45
+oh3,Ohio,3,54
+oh4,Ohio,4,61
+oh5,Ohio,5,46
+oh6,Ohio,6,59
+oh7,Ohio,7,61
+oh8,Ohio,8,51
+oh9,Ohio,9,68
+oh10,Ohio,10,42
+oh11,Ohio,11,61
+oh12,Ohio,12,58
+oh13,Ohio,13,62
+oh14,Ohio,14,43
+oh15,Ohio,15,57
+oh16,Ohio,16,60
+ok1,Oklahoma,1,54
+ok2,Oklahoma,2,43
+ok3,Oklahoma,3,52
+ok4,Oklahoma,4,47
+ok5,Oklahoma,5,49
+or1,Oregon,1,48
+or2,Oregon,2,31
+or3,Oregon,3,46
+or4,Oregon,4,31
+or5,Oregon,5,60
+pa1,Pennsylvania,1,83
+pa2,Pennsylvania,2,50
+pa3,Pennsylvania,3,75
+pa4,Pennsylvania,4,64
+pa5,Pennsylvania,5,75
+pa6,Pennsylvania,6,88
+pa7,Pennsylvania,7,93
+pa8,Pennsylvania,8,62
+pa9,Pennsylvania,9,85
+pa10,Pennsylvania,10,86
+pa11,Pennsylvania,11,86
+pa12,Pennsylvania,12,88
+pa13,Pennsylvania,13,83
+pa14,Pennsylvania,14,78
+pa15,Pennsylvania,15,83
+pa16,Pennsylvania,16,85
+pa17,Pennsylvania,17,91
+pa18,Pennsylvania,18,76
+ri1,Rhode Island,1,46
+ri2,Rhode Island,2,36
+sc1,South Carolina,1,66
+sc2,South Carolina,2,53
+sc3,South Carolina,3,32
+sc4,South Carolina,4,36
+sc5,South Carolina,5,49
+sc6,South Carolina,6,62
+sc7,South Carolina,7,42
+sd0,South Dakota,0,0
+tn1,Tennessee,1,50
+tn2,Tennessee,2,59
+tn3,Tennessee,3,59
+tn4,Tennessee,4,56
+tn5,Tennessee,5,38
+tn6,Tennessee,6,47
+tn7,Tennessee,7,51
+tn8,Tennessee,8,44
+tn9,Tennessee,9,53
+tx1,Texas,1,68
+tx2,Texas,2,88
+tx3,Texas,3,48
+tx4,Texas,4,72
+tx5,Texas,5,76
+tx6,Texas,6,67
+tx7,Texas,7,77
+tx8,Texas,8,61
+tx9,Texas,9,78
+tx10,Texas,10,77
+tx11,Texas,11,82
+tx12,Texas,12,69
+tx13,Texas,13,75
+tx14,Texas,14,81
+tx15,Texas,15,87
+tx16,Texas,16,43
+tx17,Texas,17,72
+tx18,Texas,18,82
+tx19,Texas,19,76
+tx20,Texas,20,68
+tx21,Texas,21,76
+tx22,Texas,22,78
+tx23,Texas,23,76
+tx24,Texas,24,61
+tx25,Texas,25,82
+tx26,Texas,26,43
+tx27,Texas,27,78
+tx28,Texas,28,85
+tx29,Texas,29,80
+tx30,Texas,30,66
+tx31,Texas,31,55
+tx32,Texas,32,75
+tx33,Texas,33,86
+tx34,Texas,34,86
+tx35,Texas,35,90
+tx36,Texas,36,67
+ut1,Utah,1,49
+ut2,Utah,2,38
+ut3,Utah,3,54
+ut4,Utah,4,47
+va1,Virginia,1,48
+va2,Virginia,2,64
+va3,Virginia,3,44
+va4,Virginia,4,51
+va5,Virginia,5,57
+va6,Virginia,6,54
+va7,Virginia,7,50
+va8,Virginia,8,28
+va9,Virginia,9,57
+va10,Virginia,10,59
+va11,Virginia,11,61
+vt0,Vermont,0,0
+wa1,Washington,1,19
+wa2,Washington,2,28
+wa3,Washington,3,26
+wa4,Washington,4,28
+wa5,Washington,5,12
+wa6,Washington,6,8
+wa7,Washington,7,9
+wa8,Washington,8,27
+wa9,Washington,9,17
+wa10,Washington,10,21
+wi1,Wisconsin,1,35
+wi2,Wisconsin,2,34
+wi3,Wisconsin,3,58
+wi4,Wisconsin,4,51
+wi5,Wisconsin,5,39
+wi6,Wisconsin,6,54
+wi7,Wisconsin,7,51
+wi8,Wisconsin,8,56
+wv1,West Virginia,1,59
+wv2,West Virginia,2,63
+wv3,West Virginia,3,52
+wy0,Wyoming,0,0
