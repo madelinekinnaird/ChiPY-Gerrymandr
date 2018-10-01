@@ -1,4 +1,5 @@
 gerrymander_score_unclean: https://github.com/jeffreyshen19/Is-My-District-Gerrymandered
 gerrymander_score_cleaner: Python code to filter and created clean data set
 gerrymander_score_clean: CSV file of desired data set
-
+image_link_loader.py: Python code to iterate through the districts and add the links into a spreadsheet
+gerrymander_image_links.csv: csv of district code and district image link
